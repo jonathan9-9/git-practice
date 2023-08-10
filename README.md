@@ -41,6 +41,6 @@ If at any point you have forgot the commands, check out the notion or search goo
 
 1. Pull the latest changes from **main**
 2. Run `sh merge.sh` if you are on a mac or run `.\merge.ps1` if you are on windows
-3. Resolve the merge conflict by choosing the local changes
+3. Resolve the merge conflict by choosing the current changes
 4. Make a merge request towards main
 5. Merge the merge request
