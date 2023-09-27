@@ -4,6 +4,8 @@
 
 We will be doing some git practice by trying out some git commands with the repo you have cloned.
 
+This is a checkpoint
+
 
 If at any point you have forgot the commands, check out the notion or search google.
 
